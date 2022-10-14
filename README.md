@@ -39,6 +39,9 @@ You can choose your favorite.
 1. [Plotly](https://plotly.com/javascript/)
 1. [leaflet](https://leafletjs.com/)
 
+## Coding Rule
+1. [Guidelines for styling JavaScript code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
+
 ## Editor
 1. [VSCode](https://code.visualstudio.com/)
 1. [Atom](https://atom.io/)
