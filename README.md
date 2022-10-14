@@ -7,5 +7,13 @@ I will introduce some things which I have learned and useful tools which I would
 
 ## Learn
 ### Programming
+If you want to be programmer or IT engineer you must learn at least below.
+- リスト1
+    - リスト1_1
+        - リスト1_1_1
+        - リスト1_1_2
+    - リスト1_2
+- リスト2
+- リスト3
 
 ## Tools
