@@ -13,7 +13,9 @@ If you want to be programmer or IT engineer you must learn at least below.
 - data type
 - function
 - control structure（control flow）
--- aaa
+  - if. 
+  conditional branch
+  - loop
 - using library, framework and API
 
 ## Tools
