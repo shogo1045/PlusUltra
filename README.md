@@ -32,8 +32,10 @@ You can choose your favorite.
 1. [Vue.js](https://vuejs.org/)
 1. [Angular](https://angular.io/start)
 
-## Library
+## JavaScript Library
 1. [Vanta.js](https://www.vantajs.com/)
+1. [Three.js](https://threejs.org/)
+1. [Plotly](https://plotly.com/javascript/)
 1. [leaflet](https://leafletjs.com/)
 
 ## Editor
