@@ -14,7 +14,7 @@ If you want to be programmer or IT engineer you must learn at least below.
 - function or method
 - control structure（control flow）
   - if
-  - loop（for, while etc.）
+  - loop（for loop, while loop etc.）
 - standard input and output
 - using library, framework and API
 
