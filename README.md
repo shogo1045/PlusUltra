@@ -19,6 +19,6 @@ If you want to be programmer or IT engineer you must learn at least below.
 - using library, framework and API
 
 ## Tools
-### HTML&CSS 
+### Front-end Framework
 #### [BootStrap](https://getbootstrap.com/)
-### JavaScript
+
