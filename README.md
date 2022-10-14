@@ -11,10 +11,11 @@ If you want to be programmer or IT engineer you must learn at least below.
 - variable
 - array
 - data type
-- function
+- function or method
 - control structure（control flow）
   - if
   - loop（for, while etc.）
+- standard input and output
 - using library, framework and API
 
 ## Tools
