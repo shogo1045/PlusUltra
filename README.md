@@ -56,8 +56,8 @@ You can choose your favorite.
 1. [unDraw](https://undraw.co/illustrations)
 1. [icons8](https://icons8.jp/icons#styles)
 1. [pixabay](https://pixabay.com/ja/)
-1. [Stable diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-
+1. [Stable diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)  
+input some words or sentence and artificial intelligence create pictures.
 ### Create Chart
 1. [draw.io](https://app.diagrams.net/)
 1. [Lucidchart](https://www.lucidchart.com/pages/ja)
