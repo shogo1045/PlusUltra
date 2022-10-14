@@ -35,6 +35,7 @@ You can choose your favorite.
 ## JavaScript Library
 1. [Vanta.js](https://www.vantajs.com/)
 1. [Three.js](https://threejs.org/)
+1. [Chart.js](https://www.chartjs.org/)
 1. [Plotly](https://plotly.com/javascript/)
 1. [leaflet](https://leafletjs.com/)
 
