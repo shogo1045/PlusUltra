@@ -31,6 +31,9 @@ You can choose your favorite.
 1. [jQuery](https://jquery.com/)
 1. [Vue.js](https://vuejs.org/)
 1. [Angular](https://angular.io/start)
+### Other Library
+1. [Vanta.js](https://www.vantajs.com/)
+1. [leaflet](https://leafletjs.com/)
 
 ## Editor
 1. [VSCode](https://code.visualstudio.com/)
