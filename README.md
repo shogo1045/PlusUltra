@@ -27,5 +27,9 @@ You can choose your favorite.
 1. [Bulma](https://bulma.io/)
 1. [Tailwind CSS](https://tailwindcss.com/)
 ### JavaScript Framework
+1. [React](https://reactjs.org/)
+1. [jQuery](https://jquery.com/)
+1. [Vue.js](https://vuejs.org/)
+1. [Angular](https://angular.io/start)
 
 ## Presentation
