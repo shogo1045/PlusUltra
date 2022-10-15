@@ -47,7 +47,7 @@ You can choose your favorite.
 ## Editor
 1. [VSCode](https://code.visualstudio.com/)
 1. [Atom](https://atom.io/)
-1. [サクラエディタ](https://sakura-editor.github.io/)
+1. [SAKURA](https://sakura-editor.github.io/)
 1. [vi or Vim](https://www.vim.org/)
 1. [emacs](https://www.gnu.org/software/emacs/)
 
