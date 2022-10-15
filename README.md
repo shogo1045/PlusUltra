@@ -73,3 +73,4 @@ Input some words or sentence and artificial intelligence create pictures.
 ## News Site
 1. [GIGAZINE](https://gigazine.net/)  
 There are interesting and funny information regarding technology in abundandce.
+2. [TechCrunch](https://techcrunch.com/)
