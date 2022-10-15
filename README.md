@@ -54,7 +54,8 @@ You can choose your favorite.
 ## Presentation
 ### Free Items
 1. [ICOOON MONO](https://icooon-mono.com/)
-1. [storyset](https://storyset.com/)
+1. [storyset](https://storyset.com/)  
+Stylish illustrations for  Businessperson.
 1. [unDraw](https://undraw.co/illustrations)
 1. [icons8](https://icons8.jp/icons#styles)
 1. [pixabay](https://pixabay.com/ja/)  
