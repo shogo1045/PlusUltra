@@ -22,24 +22,32 @@
 
 ## フロントエンドフレームワーク
 お好みのものをどうぞ！
-### HTML&CSS フレームワーク
+### HTML&CSS Framework
 1. [BootStrap](https://getbootstrap.com/)
 1. [Foundation](https://get.foundation/)
 1. [Skeleton](http://getskeleton.com/)
 1. [Bulma](https://bulma.io/)
 1. [Tailwind CSS](https://tailwindcss.com/)
-### JavaScript フレームワーク
-1. [React](https://reactjs.org/)
-1. [jQuery](https://jquery.com/)
+### JavaScript Framework
 1. [Vue.js](https://vuejs.org/)
-1. [Angular](https://angular.io/start)
+1. [AngularJS](https://angularjs.org/)
+1. [Node.js](https://nodejs.org/en/)
+1. [Mocha](https://mochajs.org/)
+1. [Webix](https://webix.com/)
 
-## JavaScriptのライブラリ
-1. [Vanta.js](https://www.vantajs.com/)
-1. [Three.js](https://threejs.org/)
+## JavaScript Library
+1. [jQuery](https://jquery.com/)
+1. [React.js](https://reactjs.org/)
+1. [D3.js](https://d3js.org/)
+1. [Underscore.js](https://underscorejs.org/)
+1. [Lodash](https://lodash.com/)
+1. [Algolia Places](https://www.algolia.com/ref/places/)
+1. [Anime.js](https://animejs.com/)
+1. [Animate On Scroll(AOS)](https://michalsnik.github.io/aos/)
+1. [Bideo.js](https://rishabhp.github.io/bideo.js/)
 1. [Chart.js](https://www.chartjs.org/)
-1. [Plotly](https://plotly.com/javascript/)
-1. [leaflet](https://leafletjs.com/)
+1. [Leaflet](https://leafletjs.com/)
+1. [three.js](https://threejs.org/)
 
 ## フリーのWebサイトテンプレート集
 1. [Free CSS](https://www.free-css.com/free-css-templates)
