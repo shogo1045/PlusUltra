@@ -50,7 +50,7 @@ You can choose your favorite.
 1. [emacs](https://www.gnu.org/software/emacs/)
 
 ## Presentation
-### Free Item
+### Free Items
 1. [ICOOON MONO](https://icooon-mono.com/)
 1. [storyset](https://storyset.com/)
 1. [unDraw](https://undraw.co/illustrations)
