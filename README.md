@@ -57,8 +57,10 @@ You can choose your favorite.
 Simple icons which are made black and white colors.
 1. [storyset](https://storyset.com/)  
 Stylish illustrations for  Businessperson.
-1. [unDraw](https://undraw.co/illustrations)
-1. [icons8](https://icons8.jp/icons#styles)
+1. [unDraw](https://undraw.co/illustrations)  
+Customisable color(s).
+1. [icons8](https://icons8.jp/icons#styles)  
+Many icons.
 1. [pixabay](https://pixabay.com/ja/)  
 You can free download images with various category.
 1. [Stable diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)  
