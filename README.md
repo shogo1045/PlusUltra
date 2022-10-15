@@ -43,7 +43,7 @@ You can choose your favorite.
 
 ## Free Web Site Templates
 1. [Free CSS](https://www.free-css.com/free-css-templates)
-
+1. [nicepage](https://nicepage.com/website-templates)
 
 ## Coding Rule
 1. [Guidelines for styling JavaScript code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
