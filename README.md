@@ -67,4 +67,5 @@ Input some words or sentence and artificial intelligence create pictures.
 1. [yEd](https://www.yworks.com/products/yed)
 
 ## News Site
-1. [GIGAZINE](https://gigazine.net/)
+1. [GIGAZINE](https://gigazine.net/)  
+There are interesting and funny information regading technology in abundandce.
