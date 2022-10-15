@@ -53,7 +53,8 @@ You can choose your favorite.
 
 ## Presentation
 ### Free Items
-1. [ICOOON MONO](https://icooon-mono.com/)
+1. [ICOOON MONO](https://icooon-mono.com/)  
+Simple icons which are made black and white color.
 1. [storyset](https://storyset.com/)  
 Stylish illustrations for  Businessperson.
 1. [unDraw](https://undraw.co/illustrations)
