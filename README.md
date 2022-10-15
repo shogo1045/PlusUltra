@@ -66,8 +66,3 @@ Input some words or sentence and artificial intelligence create pictures.
 
 ## News Site
 1. [GIGAZINE](https://gigazine.net/)
-
-<details>
-<summary>日本語版の説明</summary>
-<h1> aaa</h1>
-</details>
