@@ -67,5 +67,6 @@
 1. [yEd](https://www.yworks.com/products/yed)
 
 ## 情報源
-1. [GIGAZINE](https://gigazine.net/)
-2. [TechCrunch](https://techcrunch.com/)
+1. [GIGAZINE](https://gigazine.net/)  
+技術関連の面白おかしい情報が満載。
+1. [TechCrunch](https://techcrunch.com/)
