@@ -68,3 +68,4 @@
 
 ## 情報源
 1. [GIGAZINE](https://gigazine.net/)
+2. [TechCrunch](https://techcrunch.com/)
