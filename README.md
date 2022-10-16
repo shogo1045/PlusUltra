@@ -48,6 +48,7 @@ You can choose your favorite.
 1. [Chart.js](https://www.chartjs.org/)
 1. [Leaflet](https://leafletjs.com/)
 1. [three.js](https://threejs.org/)
+1. [Vanta.js](https://www.vantajs.com/)
 
 ## Free Web Site Templates
 1. [Free CSS](https://www.free-css.com/free-css-templates)
