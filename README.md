@@ -21,7 +21,7 @@ If you want to be programmer or IT engineer you must learn at least below.
 - using library, framework and API
 
 ## Front-end Framework
-You can choose your favorite.
+You can choose your favorite. There are popular framework & library.
 ### HTML&CSS Framework
 1. [BootStrap](https://getbootstrap.com/)
 1. [Foundation](https://get.foundation/)
